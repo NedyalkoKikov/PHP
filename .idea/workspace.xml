@@ -32,11 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phpDisplayVariables.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="phpDisplayVariables.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpDisplayVariables.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="examplePHP.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examplePHP.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="14" selection-start-line="4" selection-start-column="12" selection-end-line="6" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -61,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/examplePHP.php" />
         <option value="$PROJECT_DIR$/phpSyntax.php" />
         <option value="$PROJECT_DIR$/phpLoop.php" />
         <option value="$PROJECT_DIR$/phpPlusHTML.php" />
@@ -72,6 +81,7 @@
         <option value="$PROJECT_DIR$/phpFunction-simple.php" />
         <option value="$PROJECT_DIR$/phpEcho.php" />
         <option value="$PROJECT_DIR$/phpDisplayVariables.php" />
+        <option value="$PROJECT_DIR$/examplePHP.php" />
       </list>
     </option>
   </component>
@@ -256,12 +266,12 @@
       <workItem from="1467395853543" duration="824000" />
       <workItem from="1467396707411" duration="210000" />
       <workItem from="1467397025049" duration="3217000" />
-      <workItem from="1467400273730" duration="5643000" />
+      <workItem from="1467400273730" duration="5944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23352000" />
+    <option name="totallyTimeSpent" value="23653000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="760" y="152" width="1269" height="1037" extended-state="0" />
@@ -464,13 +474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examplePHP.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phpLoop.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -538,6 +541,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examplePHP.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="4" selection-start-column="12" selection-end-line="6" selection-end-column="14" />
           <folding />
         </state>
       </provider>

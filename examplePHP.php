@@ -3,7 +3,7 @@
     <body>
         <ul>
             <?php
-            echo "Hello world";
+            echo "Hello, PHP!";
             ?>
         </ul>
     </body>
