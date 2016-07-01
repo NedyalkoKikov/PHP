@@ -5,7 +5,6 @@
 	<title>phpFunction-sample</title>
 </head>
 <body>
-	<head>
 		<?php
 		$num1 = 10;
 		$num2 = 12;
@@ -16,6 +15,5 @@
 		}
 		sumNums();
 		?>
-	</head>
 </body>
 </html>

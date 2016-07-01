@@ -22,31 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="phpEcho.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phpEcho.php">
+      <file leaf-file-name="phpLoop.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpLoop.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="phpDisplayVariables.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phpDisplayVariables.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="examplePHP.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/examplePHP.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="14" selection-start-line="4" selection-start-column="12" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="442">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -55,8 +35,8 @@
       <file leaf-file-name="phpFunction-simple.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpFunction-simple.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="68">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -72,16 +52,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/phpSyntax.php" />
-        <option value="$PROJECT_DIR$/phpLoop.php" />
         <option value="$PROJECT_DIR$/phpPlusHTML.php" />
         <option value="$PROJECT_DIR$/variablesPHP.php" />
         <option value="$PROJECT_DIR$/whilePHP.php" />
         <option value="$PROJECT_DIR$/phpFunctions.php" />
         <option value="$PROJECT_DIR$/phpIfElse.php" />
-        <option value="$PROJECT_DIR$/phpFunction-simple.php" />
         <option value="$PROJECT_DIR$/phpEcho.php" />
         <option value="$PROJECT_DIR$/phpDisplayVariables.php" />
         <option value="$PROJECT_DIR$/examplePHP.php" />
+        <option value="$PROJECT_DIR$/phpFunction-simple.php" />
+        <option value="$PROJECT_DIR$/phpLoop.php" />
       </list>
     </option>
   </component>
@@ -102,8 +82,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="760" />
-    <option name="y" value="152" />
+    <option name="x" value="461" />
+    <option name="y" value="155" />
     <option name="width" value="1269" />
     <option name="height" value="1037" />
   </component>
@@ -174,16 +154,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.phpDisplayVariables.php">
+  <component name="RunManager" selected="JavaScript Debug.phpLoop.php">
     <configuration default="false" name="phpFunctions.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpFunctions.php">
-      <method />
-    </configuration>
-    <configuration default="false" name="variablesPHP.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/variablesPHP.php">
       <method />
     </configuration>
     <configuration default="false" name="phpFunction-simple.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpFunction-simple.php">
@@ -193,6 +170,9 @@
       <method />
     </configuration>
     <configuration default="false" name="phpDisplayVariables.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpDisplayVariables.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="phpLoop.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpLoop.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -234,18 +214,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="PHP Web Application.phpFunctionDebug@XAMPP" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctions.php" />
-      <item index="2" class="java.lang.String" itemvalue="PHP Script.variablesPHP.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpFunction-simple.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpEcho.php" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.phpDisplayVariables.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpFunction-simple.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpEcho.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpDisplayVariables.php" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.phpLoop.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpDisplayVariables.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpEcho.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpFunction-simple.php" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctions.php" />
-        <item index="4" class="java.lang.String" itemvalue="PHP Script.variablesPHP.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpLoop.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpDisplayVariables.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpEcho.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpFunction-simple.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctions.php" />
       </list>
     </recent_temporary>
   </component>
@@ -266,15 +246,15 @@
       <workItem from="1467395853543" duration="824000" />
       <workItem from="1467396707411" duration="210000" />
       <workItem from="1467397025049" duration="3217000" />
-      <workItem from="1467400273730" duration="5944000" />
+      <workItem from="1467400273730" duration="7196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23653000" />
+    <option name="totallyTimeSpent" value="24905000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="760" y="152" width="1269" height="1037" extended-state="0" />
+    <frame x="461" y="155" width="1269" height="1037" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -474,13 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phpLoop.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/variablesPHP.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -521,18 +494,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phpFunction-simple.php">
+    <entry file="file://$PROJECT_DIR$/examplePHP.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phpEcho.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="4" selection-start-column="12" selection-end-line="6" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -545,10 +510,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examplePHP.php">
+    <entry file="file://$PROJECT_DIR$/phpEcho.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" selection-start-line="4" selection-start-column="12" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="34">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpFunction-simple.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpLoop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
           <folding />
         </state>
       </provider>
