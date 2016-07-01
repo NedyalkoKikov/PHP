@@ -22,7 +22,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="phpEcho.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="phpEcho.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpEcho.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -32,9 +32,30 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="phpDisplayVariables.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpDisplayVariables.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phpFunction-simple.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phpFunction-simple.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -50,6 +71,7 @@
         <option value="$PROJECT_DIR$/phpIfElse.php" />
         <option value="$PROJECT_DIR$/phpFunction-simple.php" />
         <option value="$PROJECT_DIR$/phpEcho.php" />
+        <option value="$PROJECT_DIR$/phpDisplayVariables.php" />
       </list>
     </option>
   </component>
@@ -70,8 +92,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="719" />
-    <option name="y" value="116" />
+    <option name="x" value="760" />
+    <option name="y" value="152" />
     <option name="width" value="1269" />
     <option name="height" value="1037" />
   </component>
@@ -142,15 +164,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.phpEcho.php">
-    <configuration default="false" name="variablesPHP.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/variablesPHP.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.phpDisplayVariables.php">
     <configuration default="false" name="phpFunctions.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpFunctions.php">
       <method />
     </configuration>
@@ -161,6 +180,9 @@
       <method />
     </configuration>
     <configuration default="false" name="phpEcho.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpEcho.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="phpDisplayVariables.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpDisplayVariables.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -201,19 +223,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="PHP Web Application.phpFunctionDebug@XAMPP" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.variablesPHP.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctions.php" />
-      <item index="3" class="java.lang.String" itemvalue="PHP Script.variablesPHP.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpFunction-simple.php" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.phpEcho.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctions.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.variablesPHP.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpFunction-simple.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpEcho.php" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.phpDisplayVariables.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpEcho.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpFunction-simple.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctions.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHP Script.variablesPHP.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.variablesPHP.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpDisplayVariables.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpEcho.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpFunction-simple.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpFunctions.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.variablesPHP.php" />
       </list>
     </recent_temporary>
   </component>
@@ -234,15 +256,15 @@
       <workItem from="1467395853543" duration="824000" />
       <workItem from="1467396707411" duration="210000" />
       <workItem from="1467397025049" duration="3217000" />
-      <workItem from="1467400273730" duration="5041000" />
+      <workItem from="1467400273730" duration="5643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22750000" />
+    <option name="totallyTimeSpent" value="23352000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="719" y="116" width="1269" height="1037" extended-state="0" />
+    <frame x="760" y="152" width="1269" height="1037" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -311,9 +333,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1467403668607" expanded="true" signature="274:320" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -474,16 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phpFunction-simple.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <marker date="1467403668607" expanded="true" signature="274:320" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phpFunctions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -508,10 +518,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/phpFunction-simple.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/phpEcho.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpDisplayVariables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
           <folding />
         </state>
       </provider>
