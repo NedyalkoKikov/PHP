@@ -22,11 +22,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="phpNumberOfWords.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="phpNumberOfWords.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpNumberOfWords.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phpArr.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phpArr.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phpReverseString.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpReverseString.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -56,6 +76,7 @@
         <option value="$PROJECT_DIR$/helloPerson.php" />
         <option value="$PROJECT_DIR$/getLenghtOfString.php" />
         <option value="$PROJECT_DIR$/phpNumberOfWords.php" />
+        <option value="$PROJECT_DIR$/phpReverseString.php" />
       </list>
     </option>
   </component>
@@ -76,8 +97,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="677" />
-    <option name="y" value="253" />
+    <option name="x" value="1001" />
+    <option name="y" value="128" />
     <option name="width" value="1091" />
     <option name="height" value="957" />
   </component>
@@ -153,10 +174,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.phpNumberOfWords.php">
-    <configuration default="false" name="number1To20.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/number1To20.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.phpReverseString.php">
     <configuration default="false" name="phpColorPalette.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpColorPalette.php">
       <method />
     </configuration>
@@ -167,6 +185,9 @@
       <method />
     </configuration>
     <configuration default="false" name="phpNumberOfWords.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpNumberOfWords.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="phpReverseString.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpReverseString.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -207,19 +228,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="PHP Web Application.phpFunctionDebug@XAMPP" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.number1To20.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpColorPalette.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.helloPerson.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.getLenghtOfString.php" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberOfWords.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpColorPalette.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.helloPerson.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.getLenghtOfString.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberOfWords.php" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.phpReverseString.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberOfWords.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.getLenghtOfString.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.helloPerson.php" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpColorPalette.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.number1To20.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpReverseString.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpNumberOfWords.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.getLenghtOfString.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.helloPerson.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpColorPalette.php" />
       </list>
     </recent_temporary>
   </component>
@@ -250,10 +271,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36823000" />
+    <option name="totallyTimeSpent" value="37662000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="677" y="253" width="1091" height="957" extended-state="0" />
+    <frame x="1001" y="128" width="1091" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17488372" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -297,14 +318,31 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/phpColorPalette.php">
+    <entry file="file://$PROJECT_DIR$/getLenghtOfString.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/phpNumberOfWords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpArr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpColorPalette.php" />
     <entry file="file://$PROJECT_DIR$/phpLoop.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -603,14 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phpColorPalette.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/phpColorPalette.php" />
     <entry file="file://$PROJECT_DIR$/number1To20.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -621,19 +652,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helloPerson.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/helloPerson.php" />
     <entry file="file://$PROJECT_DIR$/getLenghtOfString.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -641,6 +664,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpReverseString.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding />
         </state>
       </provider>
