@@ -32,21 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phpMulltiplyNumberBy2.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/phpMulltiplyNumberBy2.php">
+      <file leaf-file-name="phpBasicFunctions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpBasicFunctions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="85">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phpMultiplyTwoNumbers.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phpMultiplyTwoNumbers.php">
+      <file leaf-file-name="phpFunctions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phpFunctions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="170">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -82,6 +82,7 @@
         <option value="$PROJECT_DIR$/phpMulltiplyNumberBy2.php" />
         <option value="$PROJECT_DIR$/phpSumTwoNumbers.php" />
         <option value="$PROJECT_DIR$/phpMultiplyTwoNumbers.php" />
+        <option value="$PROJECT_DIR$/phpBasicFunctions.php" />
       </list>
     </option>
   </component>
@@ -102,10 +103,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-62" />
-    <option name="y" value="52" />
+    <option name="x" value="476" />
+    <option name="y" value="298" />
     <option name="width" value="1340" />
-    <option name="height" value="816" />
+    <option name="height" value="794" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -179,10 +180,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.phpMultiplyTwoNumbers.php">
-    <configuration default="false" name="phpHelloPerson.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpHelloPerson.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.phpBasicFunctions.php">
     <configuration default="false" name="phpGETRequest.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpGETRequest.php">
       <method />
     </configuration>
@@ -193,6 +191,9 @@
       <method />
     </configuration>
     <configuration default="false" name="phpMultiplyTwoNumbers.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpMultiplyTwoNumbers.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="phpBasicFunctions.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP/phpBasicFunctions.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -233,19 +234,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="PHP Web Application.phpFunctionDebug@XAMPP" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpHelloPerson.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpGETRequest.php" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpSumTwoNumbers.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpMulltiplyNumberBy2.php" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.phpMultiplyTwoNumbers.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpGETRequest.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpSumTwoNumbers.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpMulltiplyNumberBy2.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpMultiplyTwoNumbers.php" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.phpBasicFunctions.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpMultiplyTwoNumbers.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpMulltiplyNumberBy2.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpSumTwoNumbers.php" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpGETRequest.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpHelloPerson.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.phpBasicFunctions.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.phpMultiplyTwoNumbers.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.phpMulltiplyNumberBy2.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.phpSumTwoNumbers.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.phpGETRequest.php" />
       </list>
     </recent_temporary>
   </component>
@@ -276,10 +277,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44460000" />
+    <option name="totallyTimeSpent" value="48585000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-62" y="52" width="1340" height="816" extended-state="0" />
+    <frame x="476" y="298" width="1340" height="794" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14199395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -287,7 +288,7 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15841584" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16350365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -318,18 +319,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/phpFunction-simple.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phpLoop.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -546,13 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phpFunctions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phpIfElse.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -665,14 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phpSumTwoNumbers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phpMultiplyTwoNumbers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -684,7 +663,31 @@
     <entry file="file://$PROJECT_DIR$/phpMulltiplyNumberBy2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpSumTwoNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpBasicFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
           <folding />
         </state>
       </provider>
