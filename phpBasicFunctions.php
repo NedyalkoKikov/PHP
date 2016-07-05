@@ -3,5 +3,5 @@ function sumNumbers($a,$b)
 {
 	return $a + $b;
 }
-echo  sumNumbers(5,10);
+echo  sumNumbers(5,10.5);
 ?>
